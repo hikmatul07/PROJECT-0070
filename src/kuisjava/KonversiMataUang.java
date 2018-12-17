@@ -11,15 +11,12 @@ public class KonversiMataUang {
 	        float rupiah, dolar, euro;
 	        System.out.print("Masukan Rupiah = ");
 	        rupiah = masukan.nextFloat();
-	        dolar = (float) (rupiah*0.0001);
+	        dolar = (float) (rupiah/14000);
 	        System.out.println();
 	        System.out.println("Hasil Kurs = ");
 	        System.out.println("Dolar = " + dolar);
 	       
-	        //project java konversi mata uang
-	        //karna gue slow
-	        //membingungkan
-	  //siapa tanya
+	       
 	}
 
 }
