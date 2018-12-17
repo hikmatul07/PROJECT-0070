@@ -19,7 +19,7 @@ public class KonversiMataUang {
 	        //project java konversi mata uang
 	        //karna gue slow
 	        //membingungkan
-	  
+	  //siapa tanya
 	}
 
 }
