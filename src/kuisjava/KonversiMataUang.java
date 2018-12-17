@@ -17,6 +17,8 @@ public class KonversiMataUang {
 	        System.out.println("Dolar = " + dolar);
 	        
 	        //bagaikan jihim
+	        
+	        //akuakuaku
 	  
 	}
 
