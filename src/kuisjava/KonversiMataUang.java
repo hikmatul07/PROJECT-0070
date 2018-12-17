@@ -17,6 +17,7 @@ public class KonversiMataUang {
 	        System.out.println("Dolar = " + dolar);
 	       
 	        //project java konversi mata uang
+	        //karna gue slow
 	  
 	}
 
